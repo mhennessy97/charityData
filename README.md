@@ -1,11 +1,11 @@
 # charityData
 
-Overview of the analysis: The purpose of this analysis is to determine whether or not applicants for charity grant funding will be successful. Alphabet Soup was used to create an algorithm to predict whether or not the applicant will be successful. A
+Overview: The purpose of this analysis is to determine whether or not applicants for charity grant funding will be successful. Alphabet Soup was used to create an algorithm to predict whether or not the applicant will be successful. 
 
 Data Preprocessing
 
 What variable(s) are the target(s) for your model? 
--The target for the model was the Is-Successful column.
+-The target for the model was the 'Is-Successful' column.
 
 
 What variable(s) are the features for your model?
@@ -34,6 +34,6 @@ What steps did you take in your attempts to increase model performance?
 
 Summary: The model had an overall accuracy of 78%. The applicant has a 78% chance of being successful if:
 
--The name of the applicant appears more than 5 times in the dataset
+-The name of the applicant appears more than 5 times in the dataset.
 -The application type falls under T3, T4, T6, T5, T19, T8, T7, or T10. 
--The classification is C1000, C2000, C1200, C3000, C2100
+-The classification is C1000, C2000, C1200, C3000, C2100.
